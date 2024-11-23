@@ -1,1 +1,3 @@
-# etchAschetch
+# EtchAschetch
+
+## This is my project
